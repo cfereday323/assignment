@@ -1,5 +1,6 @@
 #Assignment 1.1
 # Ciaran Fereday 
+#Scripting Languages
 #10393236
 #!/bin/bash
 NUMBER=0
