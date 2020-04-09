@@ -59,7 +59,7 @@ endGame()
         startGame #start the whole game again
     else #if a number is typed
         echo ""
-        echo "Cya! Better luck next time"
+        echo "Cya!"
         exit #end the game
     fi
     
